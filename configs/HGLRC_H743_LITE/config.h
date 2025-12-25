@@ -42,7 +42,7 @@
 #define GYRO_1_EXTI_PIN         PC5
 #define GYRO_1_CS_PIN           PA4
 #define GYRO_1_SPI_INSTANCE     SPI1
-#define USE_GYRO_CLKIN
+//#define USE_GYRO_CLKIN      UNSUPPORTED
 #define GYRO_1_CLKIN_PIN        PC6
 #define GYRO_1_ALIGN            CW180_DEG_FLIP
 
